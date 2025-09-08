@@ -1,2 +1,2 @@
-# Miami Machine Learning GitHub Repositor
+# Miami Machine Learning GitHub Repository
 ---
