@@ -1,4 +1,4 @@
-Details
+# Details
 The purpose of this program is to create a dataset containing the interval of 100,000 - 999,999 
 along with the boolean of its attributes in order to train a neural network for classification.
 
